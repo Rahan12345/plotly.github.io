@@ -1,3 +1,4 @@
 # plotly.github.io
-John Hopkins University (Coursera) 
+John Hopkins University (Coursera)
+<br>
 Presentation at 
